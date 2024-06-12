@@ -7,6 +7,8 @@ categories:
   - 有趣の东西
 comments: true
 ---
+![https://telegraph-image-177.pages.dev/file/0bfc14ccfe425244f65f3.png](https://telegraph-image-177.pages.dev/file/0bfc14ccfe425244f65f3.png)
+
 <!--StartFragment-->
 
 ## 概要
