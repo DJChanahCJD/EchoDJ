@@ -1,5 +1,5 @@
 ---
-title: Test
+title: 【个人无限免费图床】Telegraph+PicGo+Typora（完整教程）
 date: 2024-06-12 12:59:01
 tags:
   - 教程
@@ -8,8 +8,6 @@ categories:
 comments: true
 ---
 <!--StartFragment-->
-
-# 【个人无限免费图床】Telegraph+PicGo+Typora（完整教程）
 
 ## 概要
 
