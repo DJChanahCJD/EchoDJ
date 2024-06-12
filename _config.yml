@@ -60,4 +60,5 @@ exclude: null
 ignore: null
 theme: vivia
 deploy:
-  type: ''
+  type: 
+netlify_cms: config.yml
