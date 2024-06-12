@@ -1,6 +1,10 @@
 ---
 title: Test
 date: 2024-06-12 12:59:01
+tags:
+  - 教程
+categories:
+  - 有趣の东西
 comments: true
 ---
 <!--StartFragment-->
