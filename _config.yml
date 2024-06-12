@@ -102,3 +102,9 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+netlify_cms:
+  backend:
+    name: git-gateway
+    branch: master # 或 main，取决于你的默认分支
+
