@@ -3,6 +3,7 @@ menu:                      # 导航栏上的链接
   Home: /
   Archives: /archives
   Admin: /admin
+  ImgTC: https://imgtc-3i1.pages.dev/admin
 rss: /atom.xml
 
 home:
