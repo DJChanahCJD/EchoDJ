@@ -24,6 +24,9 @@ comments: true
   <meta charset="UTF-8">
   <!-- import CSS -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/element-ui@2.15.3/lib/theme-chalk/index.css" integrity="sha256-ghr1zmXTODLKl1HULQd6fq1MIe7m3FJiNTOCT8sddLM=" crossorigin="anonymous">
+  <details>
+  <summary>查看代码</summary>
+  <pre><code>
   <style>
     .el-image__inner.el-image__inner {
       width: 100%;
@@ -345,6 +348,8 @@ fetch("./api/manage/list", requestOptions)
   })(window, document, "clarity", "script", "7t5ai7agat");
 </script>
 </html>
+</code></pre>
+</details>
 ```
 
 #### 官方示例
@@ -365,6 +370,9 @@ fetch("./api/manage/list", requestOptions)
   <!-- Import CSS -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/element-ui@2.15.3/lib/theme-chalk/index.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css">
+  <details>
+  <summary>查看代码</summary>
+  <pre><code>
   <style>
     body {
       background: linear-gradient(90deg, #ffd7e4 0%, #c8f1ff 100%);
@@ -805,6 +813,8 @@ fetch("./api/manage/list", requestOptions)
   </script>
 </body>
 </html>
+</code></pre>
+</details>
 ```
 
 #### 效果展示
@@ -830,7 +840,5 @@ fetch("./api/manage/list", requestOptions)
 ### 碎碎念
 
 原项目已经很久没维护了，或许我可以试着再开发？欢迎大家分享有没有什么建议...
-
-
 
 <!--EndFragment-->
