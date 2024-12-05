@@ -7,7 +7,7 @@ comments: true
 > 在 Windows 11 上亲测有效。
 
 1. 下载插件[bestK/cursor-fake-machine](https://github.com/bestK/cursor-fake-machine/)
-2. 将插件拖入Cursor「扩展」![image-20241205203949110](C:/Users/DJCHAN/AppData/Roaming/Typora/typora-user-images/image-20241205203949110.png)
+2. 将插件拖入Cursor「扩展」![image-20241205203949110](https://imgtg-12w.pages.dev/file/AgACAgUAAyEGAASJIjr1AAMIZ1Gidbuo2_iYSGZgKNRlf_i85sYAAt-_MRvlwZFWynWLzOJaf2oBAAMCAAN5AAM2BA.png)
 3. 在Cursor按下`Ctrl+Shift+P`后输入`fake`生成随机机器码
 4. 重启Cursor保证生效
 
